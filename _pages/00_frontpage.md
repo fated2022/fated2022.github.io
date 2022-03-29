@@ -2,9 +2,16 @@
 layout: page
 permalink: /
 desc_title: FATED Workshop @ EDM 2022
-description: A workshop on fairness, accountability, and transparency in educational machine learning. Held in conjunction with EDM 2022.
+description:
 nav: true
 ---
+
+<div style="background-color: #9AC5CA ; padding: 50px; border: 0px solid
+green; text-align: center; font-size: 250% ; font-weight: bold ; color: #9333FF">
+FATED 2022
+</div>
+<p>
+</p>
 
 The FATED (Fairness, Accountability,  and Transparency in Educational Data) 2022 Workshop is held in conjunction with [EDM](https://educationaldatamining.org/edm2022/) and will be in a hybrid format, with in-person participation in Durham, England, on July 27. This workshop builds on the [FATED 2020 workshop](https://fatedm.inria.fr/) at EDM, with a special interest in the following areas:
  
