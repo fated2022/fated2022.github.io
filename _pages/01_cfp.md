@@ -55,7 +55,6 @@ pages with references may be used.
 
 Submitted papers should be formatted using [the EDM submission
 templates available
-here](https://educationaldatamining.org/resources/), and submitted on
-EasyChair (link available soon). 
+here](https://educationaldatamining.org/resources/), and submitted to the [FATED 2022 workshop on EasyChair](https://easychair.org/conferences/?conf=fated2022). 
 
 All papers must be submitted by 27 May 2022.

@@ -21,7 +21,7 @@ The FATED (Fairness, Accountability,  and Transparency in Educational Data) 2022
     
 - **Detection and Countermeasure Design**: We look forward to providing a venue for researchers to share their work on algorithmic bias detection and correction specifically in education-related contexts. We also invite discussion about what features of the questions that we address in educational machine learning and the datasets that we use pose particular challenges for detecting and/or addressing algorithmic bias.
 
-We hope this workshop will promote connections among researchers working on fair ML who want to engage with educational data and questions and researchers working on educational machine learning who want to be more attentive to questions of fairness. Further, we hope this workshop provides an opportunity for exchange of ideas and communication among diverse stakeholders, including those working in both industry and academia. 
+The workshop will promote connections among researchers working on fair ML who want to engage with research questions related to education or educational data and researchers working on educational machine learning who want to be more attentive to questions of fairness. Further, we hope this workshop provides an opportunity for exchange of ideas and communication among diverse stakeholders, including those working in both industry and academia. 
 
 ### How to submit
 
@@ -29,10 +29,10 @@ Check out the [CFP](cfp/) for details!
 
 ### Organizers
 
-* Collin Lynch, North Carolina State University
-* Mirko Marras, University of Cagliari
-* Mykola Pechenizkiy, Eindhoven University of Technology
-* Anna Rafferty, Carleton College
-* Steve Ritter, Carnegie Learning
-* Vinitra Swamy, EPFL
-* Renzhe Yu, University of California, Irvine
+* [Collin Lynch](https://people.engr.ncsu.edu/cflynch/), North Carolina State University
+* [Mirko Marras](https://www.mirkomarras.com), University of Cagliari
+* [Mykola Pechenizkiy](https://www.win.tue.nl/~mpechen/), Eindhoven University of Technology
+* [Anna Rafferty](https://sites.google.com/site/annanrafferty), Carleton College
+* [Steve Ritter](https://sites.google.com/view/learnerdatainstitute/steve-ritter), Carnegie Learning
+* [Vinitra Swamy](https://vinitra.github.io), EPFL
+* [Renzhe Yu](https://renzheyu.com), University of California, Irvine
