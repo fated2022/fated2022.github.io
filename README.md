@@ -10,7 +10,7 @@ The FATED (Fairness, Accountability,  and Transparency in Educational Data) 2022
 
 We hope this workshop will promote connections among researchers working on fair ML who want to engage with educational data and questions and researchers working on educational machine learning who want to be more attentive to questions of fairness. Further, we hope this workshop provides an opportunity for exchange of ideas and communication among diverse stakeholders, including those working in both industry and academia. 
 
-CFP and dates available soon!
+[See CFP for details on submissions.](https://fated2022.github.io/cfp/)
 
 
 ### Organizers
