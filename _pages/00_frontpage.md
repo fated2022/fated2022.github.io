@@ -13,6 +13,9 @@ FATED 2022
 <p>
 </p>
 
+<p></p>
+**Updated [Schedule](schedule/) and [Accepted papers](acceptedpapers/) now posted!**
+<p></p>
 The FATED (Fairness, Accountability,  and Transparency in Educational Data) 2022 Workshop is held in conjunction with [EDM](https://educationaldatamining.org/edm2022/) and will be in a hybrid format, with in-person participation in Durham, England, on July 27. This workshop builds on the [FATED 2020 workshop](https://fatedm.inria.fr/) at EDM, with a special interest in the following areas:
  
 - **Data Set Collection and Preparation**: Shared datasets and benchmarks have been invaluable for progress in ML, but while an increasing number of educational datasets are available, there's not yet consensus about what educational datasets are best for comparison in the context of bias detection or correction algorithms. Further, educational data can pose unique challenges when examining questions of fairness because student demographic information is often highly protected by privacy laws.
@@ -23,9 +26,9 @@ The FATED (Fairness, Accountability,  and Transparency in Educational Data) 2022
 
 The workshop will promote connections among researchers working on fair ML who want to engage with research questions related to education or educational data and researchers working on educational machine learning who want to be more attentive to questions of fairness. Further, we hope this workshop provides an opportunity for exchange of ideas and communication among diverse stakeholders, including those working in both industry and academia. 
 
-### How to submit
+### Schedule
 
-Check out the [CFP](cfp/) for details! 
+The workshop will be held from 10am-4pm BST (GMT+1) on July 27. Check out the tentative [Schedule](schedule/)!
 
 ### Organizers
 
