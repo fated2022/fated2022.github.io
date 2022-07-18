@@ -48,19 +48,32 @@ nav: true
 <tbody>
   <tr>
     <td class="tg-btxf">10-10:05</td>
-    <td class="tg-btxf">Opening remarks</td>
+    <td class="tg-btxf"><b>Opening remarks</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:05-10:50</td>
-    <td class="tg-0pky">Invited talk: <a href="http://www.cycat.io/team/veronika-bogina/">Veronika Bogina</a> and  <a href="http://www.cycat.io/team/avital-shulner-tal/">Avital Shulner-Tal</a></td>
+    <td class="tg-0pky"><b>Invited talk: "Educating Software and AI Stakeholders About Algorithmic Fairness, Accountability, Transparency and Ethics."</b><br> Abstract: Our society is challenged by the increasing proliferation of opaque algorithmic systems that apply
+		black box machine learning algorithms, making use of large volumes of data to facilitate decision
+		making in a wide variety of sensitive applications. We can see this phenomenon in every aspect of
+		our lives. Therefore, the education about FATE for different stakeholders: software practitioners,
+		regulators and users that interact with the system (owners and subjects) - is required.
+		The goal of this talk is to discuss the educational needs of the various stakeholders in the software
+		industry in the fields of algorithmic transparency and fairness. We will present the first steps taken
+		towards analyzing and understanding the educational needs in the framework of an academic
+		graduate seminar course, a graduate summer school, an embedded lecture in a software
+		engineering course, and a workshop for high school teachers.<br>Speakers: <a href="http://www.cycat.io/team/veronika-bogina/">Veronika Bogina</a> and  <a href="http://www.cycat.io/team/avital-shulner-tal/">Avital Shulner-Tal</a>
+		</td>
   </tr>
   <tr>
     <td class="tg-btxf">10:55-11:40</td>
-    <td class="tg-btxf">Paper talks and discussion</td>
+    <td class="tg-btxf"><b>Paper talks and discussion:</b><br>
+		Fair Classification via Transformer Neural Networks: Case Study of an Educational Domain. Modar Sulaiman and Kallol Roy.<br>
+		Who Gets the Benefit of the Doubt? Racial Bias in Machine Learning Algorithms Applied to Secondary School Math Education. Haewon Jeong, Michael D. Wu, Nilanjana Dasgupta, Muriel Médard and Flavio P. Calmon.
+		</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:45-12:30</td>
-    <td class="tg-0pky">Panel</td>
+    <td class="tg-0pky"><b>Panel</b></td>
   </tr>
   <tr>
     <td class="tg-btxf">12:30-13:30</td>
@@ -68,19 +81,25 @@ nav: true
   </tr>
   <tr>
     <td class="tg-0pky">13:30-14:15</td>
-    <td class="tg-0pky">Invited talk: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekial Dixon</a></td>
+    <td class="tg-0pky"><b>Invited talk: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekial Dixon</a></b></td>
   </tr>
   <tr>
     <td class="tg-btxf">14:20-15:10</td>
-    <td class="tg-btxf">Paper talks and discussion</td>
+    <td class="tg-btxf"><b>Paper talks and discussion:</b><br>
+		AlgebraNation Dataset: Educational Big Data to Support Fair Educational Machine Learning. Wanli Xing, Chenglu Li, and Walter Leite.<br>
+		Towards Equalised Odds as Fairness Metric in Academic Performance Prediction. Jannik Dunkelau and Manh Khoi Duong.<br>
+		Algorithmic Bias in Education. Ryan Baker and Aaron Hawn.<br>
+		Building socially responsible conversational agents using big data to support online learning: A case with Algebra Nation. Chenglu Li, Wanli Xing, and Walter Leite.<br>
+		Towards Equity and Algorithmic Fairness in Student Grade Prediction. Zach Pardos and Weijie Jiang.
+		</td>
   </tr>
   <tr>
     <td class="tg-0pky">15:10-15:55</td>
-    <td class="tg-0pky">Working session</td>
+    <td class="tg-0pky"><b>Working session</b></td>
   </tr>
   <tr>
     <td class="tg-btxf">15:55-16:00</td>
-    <td class="tg-btxf">Closing</td>
+    <td class="tg-btxf"><b>Closing</b></td>
   </tr>
 </tbody>
 </table></div>
