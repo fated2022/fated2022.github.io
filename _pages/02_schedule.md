@@ -81,7 +81,7 @@ nav: true
   </tr>
   <tr>
     <td class="tg-0pky">13:30-14:15</td>
-    <td class="tg-0pky"><b>Invited talk: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekial Dixon</a></b></td>
+    <td class="tg-0pky"><b>Invited talk: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekiel Dixon</a></b></td>
   </tr>
   <tr>
     <td class="tg-btxf">14:20-15:10</td>
