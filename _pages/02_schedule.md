@@ -86,8 +86,8 @@ nav: true
   <tr>
     <td class="tg-btxf">14:20-15:10</td>
     <td class="tg-btxf"><b>Paper talks and discussion:</b><br>
+			Towards Equalised Odds as Fairness Metric in Academic Performance Prediction. Jannik Dunkelau and Manh Khoi Duong.<br>
 		AlgebraNation Dataset: Educational Big Data to Support Fair Educational Machine Learning. Wanli Xing, Chenglu Li, and Walter Leite.<br>
-		Towards Equalised Odds as Fairness Metric in Academic Performance Prediction. Jannik Dunkelau and Manh Khoi Duong.<br>
 		Algorithmic Bias in Education. Ryan Baker and Aaron Hawn.<br>
 		Building socially responsible conversational agents using big data to support online learning: A case with Algebra Nation. Chenglu Li, Wanli Xing, and Walter Leite.<br>
 		Towards Equity and Algorithmic Fairness in Student Grade Prediction. Zach Pardos and Weijie Jiang.
