@@ -6,11 +6,13 @@ description:
 nav: true
 ---
 
-See below for accepted papers! Abstracts and links to papers will be available soon.
 
 ### Research, metrics, and dataset papers
 
 - **AlgebraNation Dataset: Educational Big Data to Support Fair Educational Machine Learning. Wanli Xing, Chenglu Li, and Walter Leite.**
+
+	One of the major challenges for studies on promoting algorithmic fairness in educational machine learning can be the limited access to demographic information due to privacy and regulations. We presented a demographics-enriched dataset called AlgebraNation, with state end-of-course exam results, 893,190 assessment items, and 20,297,075 log entries by 12,697 Algebra I learners between 2017 and 2019. We discussed the data context, collection, and attributes of AlgebraNation, providing researchers with opportunities to adopt the dataset to investigate and implement fair EML toward building trustworthy and sustainable AI in education.
+  
 
 
 - **Fair Classification via Transformer Neural Networks: Case Study of an Educational Domain. Modar Sulaiman and Kallol Roy.**
@@ -37,6 +39,10 @@ See below for accepted papers! Abstracts and links to papers will be available s
 	[View full paper here.](/assets/pdf/FATED-2022_paper_Dunkelau_Equalised_Odds.pdf)
 
 - **Who Gets the Benefit of the Doubt? Racial Bias in Machine Learning Algorithms Applied to Secondary School Math Education. Haewon Jeong, Michael D. Wu, Nilanjana Dasgupta, Muriel Médard and Flavio P. Calmon.**
+
+  We present a large-scale study demonstrating how machine learning models trained on student data can perpetuate and---at worst---amplify racial discrimination and bias patterns that have existed in the American education system. We base our study on two datasets of middle and high school students collected in the United States. We find that standard machine learning models used to predict student math performance consistently give more benefit of the doubt to White and Asian students and are more pessimistic in their predictions to Black, Hispanic, and Native American students. Even more dangerously, these disparities are hidden by high accuracy numbers---the standard figure-of-merit used to evaluate machine learning performance. We also study the fairness implications of the racial composition of datasets used to train machine learning models that predict student performance. Our results show that changing the racial composition of the training dataset produces a surprising trade-off between false-positive and false-negative predictions between student groups. We discuss how we can leverage this effect as a tool for reducing racial gaps in prediction error patterns while preserving accuracy. We also benchmark several state-of-the-art fairness interventions on student data and report their performance. Our analyses provide guidelines for creating more racially just machine learning models in education.
+	
+	[View full paper here.](/assets/pdf/FATED-2022_paper_Jeong_Racial_Bias_ML_Algs.pdf)
 
 
 ### Encore papers
