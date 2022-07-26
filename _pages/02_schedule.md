@@ -81,7 +81,7 @@ nav: true
   </tr>
   <tr>
     <td class="tg-0pky">13:30-14:15</td>
-    <td class="tg-0pky"><b>Invited talk: Counter Futures of AI Ethics</b><br>Speaker: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekiel Dixon</a></td>
+    <td class="tg-0pky"><b>Invited talk: "Counter Futures of AI Ethics"</b><br>Speaker: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekiel Dixon</a></td>
   </tr>
   <tr>
     <td class="tg-btxf">14:20-15:10</td>
