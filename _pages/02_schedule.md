@@ -73,7 +73,7 @@ nav: true
   </tr>
   <tr>
     <td class="tg-0pky">11:45-12:30</td>
-    <td class="tg-0pky"><b>Panel</b></td>
+    <td class="tg-0pky"><b>Panel:</b> <a href="https://www.gse.upenn.edu/academics/faculty-directory/ben-porath">Sigal Ben-Porath</a>, <a href="http://www.cycat.io/team/avital-shulner-tal/">Avital Shulner-Tal</a>, and <a href="https://www.cics.umass.edu/faculty/directory/woolf_beverly">Bev Woolf</a></td>
   </tr>
   <tr>
     <td class="tg-btxf">12:30-13:30</td>
@@ -81,7 +81,7 @@ nav: true
   </tr>
   <tr>
     <td class="tg-0pky">13:30-14:15</td>
-    <td class="tg-0pky"><b>Invited talk: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekiel Dixon</a></b></td>
+    <td class="tg-0pky"><b>Invited talk: Counter Futures of AI Ethics</b><br>Speaker: <a href="https://www.asc.upenn.edu/people/faculty/ezekiel-dixon-roman-phd">Ezekiel Dixon</a></td>
   </tr>
   <tr>
     <td class="tg-btxf">14:20-15:10</td>
