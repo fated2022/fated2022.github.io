@@ -13,6 +13,7 @@ nav: true
 
 	One of the major challenges for studies on promoting algorithmic fairness in educational machine learning can be the limited access to demographic information due to privacy and regulations. We presented a demographics-enriched dataset called AlgebraNation, with state end-of-course exam results, 893,190 assessment items, and 20,297,075 log entries by 12,697 Algebra I learners between 2017 and 2019. We discussed the data context, collection, and attributes of AlgebraNation, providing researchers with opportunities to adopt the dataset to investigate and implement fair EML toward building trustworthy and sustainable AI in education.
   
+	[View full paper here.](/assets/pdf/FATED-2022_paper_Xing_AlgebraNation_Dataset.pdf)
 
 
 - **Fair Classification via Transformer Neural Networks: Case Study of an Educational Domain. Modar Sulaiman and Kallol Roy.**
